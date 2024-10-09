@@ -3,7 +3,7 @@
 **This is my first full site project using html and css**
 ![first project view](https://github.com/user-attachments/assets/34ea6c0c-8fe7-41ed-97c8-47d00cea1fb6)
 
-- [Demo Project](https://code-banu.github.io/my-first-project/)
+- [Demo Project](https://code-banu.github.io/second-project/)
 
 - Developed by Raheleh Banam
 
