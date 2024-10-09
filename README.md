@@ -1,7 +1,7 @@
 # my first full site 
 
 **This is my first full site project using html and css**
-![first project view](https://github.com/user-attachments/assets/34ea6c0c-8fe7-41ed-97c8-47d00cea1fb6)
+![first project view](![githubdemo1](https://github.com/user-attachments/assets/c13ff76e-57f3-4b35-8486-30e6c05da0ef))
 
 - [Demo Project](https://code-banu.github.io/second-project/)
 
